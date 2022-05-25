@@ -1,13 +1,11 @@
 ---
 
-title:
-author: 
+title: 2P-Set
+author: Jessie Broke
 dateCreated:
 dateUpdated:
 
 ---
-
-# Topic: 2P-Set
 #### Related:
 `ELI5 goes here`
 

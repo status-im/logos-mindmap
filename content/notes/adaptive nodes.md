@@ -1,5 +1,5 @@
 ---
-title: 
+title: Adaptive Nodes
 author:
 dateCreated:: 20220520
 dateUpdated:

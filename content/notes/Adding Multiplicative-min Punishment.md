@@ -1,13 +1,11 @@
 ---
 
-title:
+title: Adding Multiplicative-min Punishment
 author: 
 dateCreated:
 dateUpdated:
 
 ---
-
-# Topic: Adding Multiplicative-min Punishment
 #### Related:
 `ELI5 goes here`
 

@@ -1,13 +1,11 @@
 ---
 
-title:
+title: Adaptive and Dynamic
 author: 
 dateCreated:
 dateUpdated:
 
 ---
-
-# Topic: Adaptive and Dynamic
 #### Related:
 `ELI5 goes here`
 
