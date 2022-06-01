@@ -2,16 +2,12 @@
 title: Start here
 ---
 ## Welcome to the Logos DAO Safe Spawn™
-our Culinary Home where we create, prepare and cook World-Class Recipes
+our Home where we learn and collaborate together to build a new reality
 
-[Under Construction: Insert 'Glad you finally made it' here video - VTuber Sprite of Chef]
+You can see the high-level [Logos Program](notes/Logos%20Program.md) or 
 
-For now just hop into one of our Restaurants where our Chefs are busy at work: [Logos Program](notes/Logos%20Program.md)
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
+if you prefer browsing the contents of this site you can do so below
 
 - [All Notes](/notes)
 
-
-
-
+`[Under Construction: Insert 'Glad you finally made it' here video]`
