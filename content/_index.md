@@ -1,13 +1,11 @@
 ---
-title: Start here
+title: Logos Library
 ---
-## Welcome to the Logos DAO Safe Spawn™
-our shared visible garden documenting our daily collaborative efforts
 
-You can see the high-level [Logos Program](notes/Logos%20Program.md) or 
+**Welcome to our shared visible garden Safe Spawn™ documenting our daily collaborative efforts.**
 
-if you prefer browsing the contents of this site you can do so below
+Start here:
+- [Logos Program](notes/Logos%20Program.md)
 
-- [All Notes](/notes)
-
+![](https://media.discordapp.net/attachments/735913928722350200/991535456896426124/logos-logo-wob.png)
 `[Under Construction: Insert 'Glad you finally made it' here video]`

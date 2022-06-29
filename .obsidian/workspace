@@ -7,8 +7,12 @@
         "id": "4ba0723301838c27",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/notes/Add New Topic.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/notes/Add New Topic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,10 +89,15 @@
   },
   "active": "4ba0723301838c27",
   "lastOpenFiles": [
+    "content/notes/Add New Topic.md",
+    "content/notes/Instructions.md",
     "content/notes/Logos Program.md",
     "content/notes/Adding Multiplicative-min Punishment.md",
-    "content/notes/2P-Set.md",
-    "README.md",
-    "CODE_OF_CONDUCT.md"
+    "content/notes/Graph View.md",
+    "content/notes/hierarchy of information.md",
+    "content/notes/adaptive nodes.md",
+    "content/notes/Adaptive and Dynamic.md",
+    "content/notes/Instructions.md",
+    "content/_index.md"
   ]
 }

@@ -1,1 +1,10 @@
-{}
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/notes",
+  "attachmentFolderPath": "content/notes",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "promptDelete": false
+}

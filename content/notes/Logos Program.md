@@ -5,9 +5,7 @@ dateCreated:: 2022-05-07
 dateUpdated: 2022-05-23
 ---
 
-# Understanding Logos Program
-```
-Logos is:
+Logos is
 
 A parallel socioeconomic system that empowers individuals and communities worldwide. An open source project built and operated entirely by its community. It’s intended to exist peacefully alongside our existing economies and states. 
 
@@ -19,7 +17,6 @@ A movement to create a self-sovereign crypto network: a decentralised technology
 
 
 The world's first crypto-state.
-```
 
 >**"We build everything on top of consensus."**
 Dr. Corey Petty
@@ -27,10 +24,10 @@ Dr. Corey Petty
 ---
 
 ## Purpose
-is to provide a "[[Living Database]]" with a [[hierarchy of information]] displayed using fun [[cooking motifs]] to deliver:
+is to provide a "[[Living Database]]" with a [[hierarchy of information]] to deliver:
 
 1. Searchable Information ([[Graph View]] w/ Controllable Physics for View Adjustment)
-2. Topic Coordination ([[Recipes]] as Connected Topics/Pages w/ Linked Navigation)
+2. Topic Coordination ([[Topic]] as Connected Topics/Pages w/ Linked Navigation)
 3. Communication Routes ([[Tags]] for Project Discord w/ Relevant Text-Channel for Live Discussion)
 
 ---
