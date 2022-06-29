@@ -2,7 +2,7 @@
 title: Start here
 ---
 ## Welcome to the Logos DAO Safe Spawn™
-our Home where we learn and collaborate together to build a new reality
+our shared visible garden documenting our daily collaborative efforts
 
 You can see the high-level [Logos Program](notes/Logos%20Program.md) or 
 
